@@ -1,8 +1,0 @@
-print('Helow Word')
-print('Helow Dity')
-print('atenção')
-print(1+1)
-print(10 == 120)
-print("1", type("1"))
-print(int("1"), type(int("1")))
-print(int("1") + (int("1")))
